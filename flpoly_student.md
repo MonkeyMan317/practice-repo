@@ -19,5 +19,8 @@ The environment
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 Rising to new heights
 ***
+|**Prefix**|**Number**|*Name*|Credits|
 
 > Last modified: YYYY/MM/DD
+
+|**Prefix**|**Number**|*Name*|Credits|
